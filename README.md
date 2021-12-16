@@ -1,6 +1,4 @@
-# News App
 
-[Tutorial Video](https://youtu.be/ejHci28XW2A)
 
 #### Run commands:
 
