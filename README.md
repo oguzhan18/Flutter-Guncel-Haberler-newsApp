@@ -11,4 +11,5 @@ flutter run
 ```
 
 #### And Result:
-![Screenshot](newsapp.png "Phone Screen")
+<img src="image/apk.png">
+<img src="image/ioıs.png">
