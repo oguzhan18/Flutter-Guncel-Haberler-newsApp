@@ -7,6 +7,8 @@ flutter pub get
 ```
 flutter run
 ```
+## APK Install
+<a href="image/güncelahberler.apk" download> Click to download APK </a>
 # Güncel Haber App
 Mobile application showing Turkey's most up-to-date and popular headlines.
 ## Badges
